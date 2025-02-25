@@ -1,0 +1,14 @@
+C:\Users\hbhkl\Desktop\assignment\Assignment\1_1\bin\Debug\net8.0\1_1.exe
+C:\Users\hbhkl\Desktop\assignment\Assignment\1_1\bin\Debug\net8.0\1_1.deps.json
+C:\Users\hbhkl\Desktop\assignment\Assignment\1_1\bin\Debug\net8.0\1_1.runtimeconfig.json
+C:\Users\hbhkl\Desktop\assignment\Assignment\1_1\bin\Debug\net8.0\1_1.dll
+C:\Users\hbhkl\Desktop\assignment\Assignment\1_1\bin\Debug\net8.0\1_1.pdb
+C:\Users\hbhkl\Desktop\assignment\Assignment\1_1\obj\Debug\net8.0\1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbhkl\Desktop\assignment\Assignment\1_1\obj\Debug\net8.0\1_1.AssemblyInfoInputs.cache
+C:\Users\hbhkl\Desktop\assignment\Assignment\1_1\obj\Debug\net8.0\1_1.AssemblyInfo.cs
+C:\Users\hbhkl\Desktop\assignment\Assignment\1_1\obj\Debug\net8.0\1_1.csproj.CoreCompileInputs.cache
+C:\Users\hbhkl\Desktop\assignment\Assignment\1_1\obj\Debug\net8.0\1_1.dll
+C:\Users\hbhkl\Desktop\assignment\Assignment\1_1\obj\Debug\net8.0\refint\1_1.dll
+C:\Users\hbhkl\Desktop\assignment\Assignment\1_1\obj\Debug\net8.0\1_1.pdb
+C:\Users\hbhkl\Desktop\assignment\Assignment\1_1\obj\Debug\net8.0\1_1.genruntimeconfig.cache
+C:\Users\hbhkl\Desktop\assignment\Assignment\1_1\obj\Debug\net8.0\ref\1_1.dll
